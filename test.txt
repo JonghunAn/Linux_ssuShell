@@ -1,0 +1,5 @@
+ls
+ls -al
+cat c.txt
+cat -b c.txt
+cash

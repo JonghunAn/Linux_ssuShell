@@ -1,0 +1,2 @@
+ls | grep a
+cat test2.txt | grep ls
